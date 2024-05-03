@@ -1,0 +1,1172 @@
+[
+  {
+    "code": "178",
+    "alphacode": "CG",
+    "description": "TR:=KONGO;;EN:=CONGO"
+  },
+  {
+    "code": "891",
+    "alphacode": "YU",
+    "description": "TR:=YUGOSLAVYA;;EN:=YUGOSLAVIA"
+  },
+  {
+    "code": "028",
+    "alphacode": "AG",
+    "description": "TR:=ANTIGUA AND BARBUDA;;EN:=ANTIGUA AND BARBUDA"
+  },
+  {
+    "code": "011",
+    "alphacode": "AQ",
+    "description": "TR:=ANTARKTİKA;;EN:=ANTARCTICA"
+  },
+  {
+    "code": "012",
+    "alphacode": "DZ",
+    "description": "TR:=CEZAYİR;;EN:=ALGERIA"
+  },
+  {
+    "code": "016",
+    "alphacode": "AS",
+    "description": "TR:=AMERICAN SAMOA;;EN:=AMERICAN SAMOA"
+  },
+  {
+    "code": "626",
+    "alphacode": "TP",
+    "description": "TR:=DOĞU TIMOR;;EN:=EAST TIMOR"
+  },
+  {
+    "code": "280",
+    "alphacode": "DE",
+    "description": "TR:=ALMANYA;;EN:=GERMANY"
+  },
+  {
+    "code": "600",
+    "alphacode": "PY",
+    "description": "TR:=PARAGUAY;;EN:=PARAGUAY"
+  },
+  {
+    "code": "894",
+    "alphacode": "ZM",
+    "description": "TR:=ZAMBİA;;EN:=ZAMBIA"
+  },
+  {
+    "code": "450",
+    "alphacode": "MG",
+    "description": "TR:=MADAGASKAR;;EN:=MADAGASCAR"
+  },
+  {
+    "code": "191",
+    "alphacode": "HR",
+    "description": "TR:=HIRVATİSTAN;;EN:=CROATIA"
+  },
+  {
+    "code": "112",
+    "alphacode": "BY",
+    "description": "TR:=BEYAZ RUSYA;;EN:=BELARUS"
+  },
+  {
+    "code": "262",
+    "alphacode": "DJ",
+    "description": "TR:=CİBUTİ;;EN:=DJIBOUTI"
+  },
+  {
+    "code": "533",
+    "alphacode": "AW",
+    "description": "TR:=ARUBA;;EN:=ARUBA"
+  },
+  {
+    "code": "462",
+    "alphacode": "MV",
+    "description": "TR:=MALDIVES;;EN:=MALDIVES"
+  },
+  {
+    "code": "340",
+    "alphacode": "HN",
+    "description": "TR:=HONDURAS;;EN:=HONDURAS"
+  },
+  {
+    "code": "132",
+    "alphacode": "CV",
+    "description": "TR:=CAPE VERDE;;EN:=CAPE VERDE"
+  },
+  {
+    "code": "188",
+    "alphacode": "CR",
+    "description": "TR:=KOSTA RİKA;;EN:=COSTA RICA"
+  },
+  {
+    "code": "218",
+    "alphacode": "EC",
+    "description": "TR:=EKVADOR;;EN:=ECUADOR"
+  },
+  {
+    "code": "233",
+    "alphacode": "EE",
+    "description": "TR:=ESTONYA;;EN:=ESTONIA"
+  },
+  {
+    "code": "328",
+    "alphacode": "GY",
+    "description": "TR:=GUYANA;;EN:=GUYANA"
+  },
+  {
+    "code": "348",
+    "alphacode": "HU",
+    "description": "TR:=MACARİSTAN;;EN:=HUNGARY"
+  },
+  {
+    "code": "422",
+    "alphacode": "LB",
+    "description": "TR:=LÜBNAN;;EN:=LEBANON"
+  },
+  {
+    "code": "454",
+    "alphacode": "MW",
+    "description": "TR:=MALAWI;;EN:=MALAWI"
+  },
+  {
+    "code": "446",
+    "alphacode": "MO",
+    "description": "TR:=MACAU, ÇİN;;EN:=MACAU, CHINA"
+  },
+  {
+    "code": "484",
+    "alphacode": "MX",
+    "description": "TR:=MEKSİKA;;EN:=MEXICO"
+  },
+  {
+    "code": "705",
+    "alphacode": "SI",
+    "description": "TR:=SLOVENYA;;EN:=SLOVENIA"
+  },
+  {
+    "code": "706",
+    "alphacode": "SO",
+    "description": "TR:=SOMALİ;;EN:=SOMALIA"
+  },
+  {
+    "code": "585",
+    "alphacode": "PW",
+    "description": "TR:=PALAU;;EN:=PALAU"
+  },
+  {
+    "code": "586",
+    "alphacode": "PK",
+    "description": "TR:=PAKİSTAN;;EN:=PAKISTAN"
+  },
+  {
+    "code": "591",
+    "alphacode": "PA",
+    "description": "TR:=PANAMA;;EN:=PANAMA"
+  },
+  {
+    "code": "368",
+    "alphacode": "IQ",
+    "description": "TR:=IRAK;;EN:=IRAQ"
+  },
+  {
+    "code": "434",
+    "alphacode": "LY",
+    "description": "TR:=LİBYA ARAP CUMHURİYETİ;;EN:=LIBYAN ARAB JAMAHIRIYA"
+  },
+  {
+    "code": "398",
+    "alphacode": "KZ",
+    "description": "TR:=KAZAKİSTAN;;EN:=KAZAKHSTAN"
+  },
+  {
+    "code": "192",
+    "alphacode": "CU",
+    "description": "TR:=KÜBA;;EN:=CUBA"
+  },
+  {
+    "code": "208",
+    "alphacode": "DK",
+    "description": "TR:=DANİMARKA;;EN:=DENMARK"
+  },
+  {
+    "code": "288",
+    "alphacode": "GH",
+    "description": "TR:=GANA;;EN:=GHANA"
+  },
+  {
+    "code": "400",
+    "alphacode": "JO",
+    "description": "TR:=ÜRDÜN;;EN:=JORDAN"
+  },
+  {
+    "code": "410",
+    "alphacode": "KR",
+    "description": "TR:=GÜNEY KORE;;EN:=SOUTH KOREA"
+  },
+  {
+    "code": "524",
+    "alphacode": "NP",
+    "description": "TR:=NEPAL;;EN:=NEPAL"
+  },
+  {
+    "code": "504",
+    "alphacode": "MA",
+    "description": "TR:=FAS;;EN:=MOROCCO"
+  },
+  {
+    "code": "643",
+    "alphacode": "RU",
+    "description": "TR:=RUSYA FEDERASYON;;EN:=RUSSIAN FEDERATION"
+  },
+  {
+    "code": "124",
+    "alphacode": "CA",
+    "description": "TR:=KANADA;;EN:=CANADA"
+  },
+  {
+    "code": "584",
+    "alphacode": "MH",
+    "description": "TR:=MARSHALL ADALARI;;EN:=MARSHALL ISLANDS"
+  },
+  {
+    "code": "598",
+    "alphacode": "PG",
+    "description": "TR:=PAPUA YENİ GİNE;;EN:=PAPUA NEW GUINEA"
+  },
+  {
+    "code": "682",
+    "alphacode": "SA",
+    "description": "TR:=SUUDİ ARABİSTAN;;EN:=SAUDI ARABIA"
+  },
+  {
+    "code": "530",
+    "alphacode": "AN",
+    "description": "TR:=HOLLANDA ANTİLLERİ;;EN:=NETHERLANDS ANTILLES"
+  },
+  {
+    "code": "624",
+    "alphacode": "GW",
+    "description": "TR:=GİNE -BISSAU;;EN:=GUINEA-BISSAU"
+  },
+  {
+    "code": "620",
+    "alphacode": "PT",
+    "description": "TR:=PORTEKİZ;;EN:=PORTUGAL"
+  },
+  {
+    "code": "646",
+    "alphacode": "RW",
+    "description": "TR:=RUANDA;;EN:=RWANDA"
+  },
+  {
+    "code": "638",
+    "alphacode": "RE",
+    "description": "TR:=REUNION;;EN:=REUNION"
+  },
+  {
+    "code": "048",
+    "alphacode": "BH",
+    "description": "TR:=BAHREYN;;EN:=BAHRAIN"
+  },
+  {
+    "code": "659",
+    "alphacode": "KN",
+    "description": "TR:=ST. KITTS-NEVIS;;EN:=ST. KITTS-NEVIS"
+  },
+  {
+    "code": "642",
+    "alphacode": "RO",
+    "description": "TR:=ROMANYA;;EN:=ROMANIA"
+  },
+  {
+    "code": "662",
+    "alphacode": "LC",
+    "description": "TR:=ST. LUCIA;;EN:=ST. LUCIA"
+  },
+  {
+    "code": "678",
+    "alphacode": "ST",
+    "description": "TR:=SAO TOME AND PRINCIPE;;EN:=SAO TOME AND PRINCIPE"
+  },
+  {
+    "code": "670",
+    "alphacode": "VC",
+    "description": "TR:=ST. VINCENT - GRENADINES;;EN:=ST. VINCENT - GRENADINES"
+  },
+  {
+    "code": "887",
+    "alphacode": "YE",
+    "description": "TR:=YEMEN ARAP CUMHURİYETİ;;EN:=YEMEN ARAB REPUBLIC"
+  },
+  {
+    "code": "876",
+    "alphacode": "WF",
+    "description": "TR:=WALLIS AND FUTUNA ADALARI;;EN:=WALLIS AND FUTUNA ISLANDS"
+  },
+  {
+    "code": "854",
+    "alphacode": "BF",
+    "description": "TR:=BURKINA FASO;;EN:=BURKINA FASO"
+  },
+  {
+    "code": "850",
+    "alphacode": "VI",
+    "description": "TR:=U.S. VIRGIN ADALARI;;EN:=U.S. VIRGIN ISLANDS"
+  },
+  {
+    "code": "798",
+    "alphacode": "TV",
+    "description": "TR:=TUVALU;;EN:=TUVALU"
+  },
+  {
+    "code": "796",
+    "alphacode": "TC",
+    "description": "TR:=TURKS - CAICOS ADALARI;;EN:=TURKS - CAICOS ISLANDS"
+  },
+  {
+    "code": "772",
+    "alphacode": "TK",
+    "description": "TR:=TOKELAU;;EN:=TOKELAU"
+  },
+  {
+    "code": "768",
+    "alphacode": "TG",
+    "description": "TR:=TOGO;;EN:=TOGO"
+  },
+  {
+    "code": "686",
+    "alphacode": "SN",
+    "description": "TR:=SENEGAL;;EN:=SENEGAL"
+  },
+  {
+    "code": "492",
+    "alphacode": "MC",
+    "description": "TR:=MONACO;;EN:=MONACO"
+  },
+  {
+    "code": "690",
+    "alphacode": "SC",
+    "description": "TR:=SEYCHELLES;;EN:=SEYCHELLES"
+  },
+  {
+    "code": "196",
+    "alphacode": "CY",
+    "description": "TR:=KIBRIS;;EN:=CYPRUS"
+  },
+  {
+    "code": "300",
+    "alphacode": "GR",
+    "description": "TR:=YUNANİSTAN;;EN:=GREECE"
+  },
+  {
+    "code": "426",
+    "alphacode": "LS",
+    "description": "TR:=LESOTO;;EN:=LESOTHO"
+  },
+  {
+    "code": "520",
+    "alphacode": "NR",
+    "description": "TR:=NAURU;;EN:=NAURU"
+  },
+  {
+    "code": "466",
+    "alphacode": "ML",
+    "description": "TR:=MALI;;EN:=MALI"
+  },
+  {
+    "code": "308",
+    "alphacode": "GD",
+    "description": "TR:=GRENADA;;EN:=GRENADA"
+  },
+  {
+    "code": "304",
+    "alphacode": "GL",
+    "description": "TR:=GRÖLAND;;EN:=GREENLAND"
+  },
+  {
+    "code": "296",
+    "alphacode": "KI",
+    "description": "TR:=KIRIBATI;;EN:=KIRIBATI"
+  },
+  {
+    "code": "234",
+    "alphacode": "FO",
+    "description": "TR:=FAEROE ADALARI;;EN:=FAEROE ISLANDS"
+  },
+  {
+    "code": "226",
+    "alphacode": "GQ",
+    "description": "TR:=EKVATORAL GİNE;;EN:=EQUATORIAL GUINEA"
+  },
+  {
+    "code": "204",
+    "alphacode": "BJ",
+    "description": "TR:=BENIN;;EN:=BENIN"
+  },
+  {
+    "code": "032",
+    "alphacode": "AR",
+    "description": "TR:=ARJARTİN;;EN:=ARGENTINA"
+  },
+  {
+    "code": "570",
+    "alphacode": "NU",
+    "description": "TR:=NIUE;;EN:=NIUE"
+  },
+  {
+    "code": "562",
+    "alphacode": "NE",
+    "description": "TR:=NIGER;;EN:=NIGER"
+  },
+  {
+    "code": "540",
+    "alphacode": "NC",
+    "description": "TR:=YENİ KALEDONYA;;EN:=NEW CALEDONIA"
+  },
+  {
+    "code": "536",
+    "alphacode": "NT",
+    "description": "TR:=KARADAĞ;;EN:=MONTENEGRO"
+  },
+  {
+    "code": "500",
+    "alphacode": "MS",
+    "description": "TR:=MONTSERRAT;;EN:=MONTSERRAT"
+  },
+  {
+    "code": "438",
+    "alphacode": "LI",
+    "description": "TR:=LIECHTENSTEIN;;EN:=LIECHTENSTEIN"
+  },
+  {
+    "code": "336",
+    "alphacode": "VA",
+    "description": "TR:=VATİKAN;;EN:=VATICAN CITY STATE"
+  },
+  {
+    "code": "316",
+    "alphacode": "GU",
+    "description": "TR:=GUAM;;EN:=GUAM"
+  },
+  {
+    "code": "258",
+    "alphacode": "PF",
+    "description": "TR:=FRENCH POLYNESIA;;EN:=FRENCH POLYNESIA"
+  },
+  {
+    "code": "231",
+    "alphacode": "ET",
+    "description": "TR:=ETOPYA;;EN:=ETHIOPIA"
+  },
+  {
+    "code": "212",
+    "alphacode": "DM",
+    "description": "TR:=DOMİNİK;;EN:=DOMINICA"
+  },
+  {
+    "code": "184",
+    "alphacode": "CK",
+    "description": "TR:=COOK ADALARI;;EN:=COOK ISLANDS"
+  },
+  {
+    "code": "372",
+    "alphacode": "IE",
+    "description": "TR:=İRLANDA CUMHURİYETİ;;EN:=REPUBLIC OF IRELAND"
+  },
+  {
+    "code": "417",
+    "alphacode": "KG",
+    "description": "TR:=KIRGIZİSTAN;;EN:=KYRGYZSTAN"
+  },
+  {
+    "code": "360",
+    "alphacode": "ID",
+    "description": "TR:=ENDONEZYA;;EN:=INDONESIA"
+  },
+  {
+    "code": "100",
+    "alphacode": "BG",
+    "description": "TR:=BULGARİSTAN;;EN:=BULGARIA"
+  },
+  {
+    "code": "116",
+    "alphacode": "KH",
+    "description": "TR:=CAMBODIA;;EN:=KAMBOÇYA"
+  },
+  {
+    "code": "136",
+    "alphacode": "KY",
+    "description": "TR:=KAYMAN ADALARI;;EN:=CAYMAN ISLANDS"
+  },
+  {
+    "code": "144",
+    "alphacode": "LK",
+    "description": "TR:=SRİ LANKA;;EN:=SRI LANKA"
+  },
+  {
+    "code": "036",
+    "alphacode": "AU",
+    "description": "TR:=AVUSTRALYA;;EN:=AUSTRALIA"
+  },
+  {
+    "code": "152",
+    "alphacode": "CL",
+    "description": "TR:=ŞİLİ;;EN:=CHILE"
+  },
+  {
+    "code": "156",
+    "alphacode": "CN",
+    "description": "TR:=ÇİN;;EN:=CHINA"
+  },
+  {
+    "code": "170",
+    "alphacode": "CO",
+    "description": "TR:=KOLOMBİYA;;EN:=COLOMBIA"
+  },
+  {
+    "code": "174",
+    "alphacode": "KM",
+    "description": "TR:=KOMOROS;;EN:=COMOROS"
+  },
+  {
+    "code": "203",
+    "alphacode": "CZ",
+    "description": "TR:=ÇEK CUMHURİYETİ;;EN:=CZECH REPUBLIC"
+  },
+  {
+    "code": "040",
+    "alphacode": "AT",
+    "description": "TR:=AVUSTURYA;;EN:=AUSTRIA"
+  },
+  {
+    "code": "238",
+    "alphacode": "FK",
+    "description": "TR:=FALKLAND ADALARI-MALVINAS;;EN:=FALKLAND ISLANDS-MALVINAS"
+  },
+  {
+    "code": "242",
+    "alphacode": "FJ",
+    "description": "TR:=FİJİ;;EN:=FIJI"
+  },
+  {
+    "code": "250",
+    "alphacode": "FR",
+    "description": "TR:=FRANSA;;EN:=FRANCE"
+  },
+  {
+    "code": "268",
+    "alphacode": "GE",
+    "description": "TR:=GÜRCİSTAN;;EN:=GEORGIA"
+  },
+  {
+    "code": "270",
+    "alphacode": "GM",
+    "description": "TR:=GAMBİYA;;EN:=GAMBIA"
+  },
+  {
+    "code": "292",
+    "alphacode": "GI",
+    "description": "TR:=CEBELİTARIK;;EN:=GIBRALTAR"
+  },
+  {
+    "code": "324",
+    "alphacode": "GN",
+    "description": "TR:=GİNE;;EN:=GUINEA"
+  },
+  {
+    "code": "332",
+    "alphacode": "HT",
+    "description": "TR:=HAİTİ;;EN:=HAITI"
+  },
+  {
+    "code": "344",
+    "alphacode": "HK",
+    "description": "TR:=HONG KONG, ÇİN;;EN:=HONG KONG, CHINA"
+  },
+  {
+    "code": "364",
+    "alphacode": "IR",
+    "description": "TR:=İRAN;;EN:=ISLAMIC REPUBLIC OF"
+  },
+  {
+    "code": "376",
+    "alphacode": "IL",
+    "description": "TR:=İSRAİL;;EN:=ISRAEL"
+  },
+  {
+    "code": "388",
+    "alphacode": "JM",
+    "description": "TR:=JAMAİKA;;EN:=JAMAICA"
+  },
+  {
+    "code": "404",
+    "alphacode": "KE",
+    "description": "TR:=KENYA;;EN:=KENYA"
+  },
+  {
+    "code": "408",
+    "alphacode": "KP",
+    "description": "TR:=KUZEY KORE;;EN:=NORTH KOREA"
+  },
+  {
+    "code": "418",
+    "alphacode": "LA",
+    "description": "TR:=LAO PEOPLES DEM.;;EN:=LAO PEOPLES DEM."
+  },
+  {
+    "code": "430",
+    "alphacode": "LR",
+    "description": "TR:=LİBERYA;;EN:=LIBERIA"
+  },
+  {
+    "code": "440",
+    "alphacode": "LT",
+    "description": "TR:=LİTVANYA;;EN:=LITHUANIA"
+  },
+  {
+    "code": "442",
+    "alphacode": "LU",
+    "description": "TR:=LÜKSEMBURG;;EN:=LUXEMBOURG"
+  },
+  {
+    "code": "470",
+    "alphacode": "MT",
+    "description": "TR:=MALTA;;EN:=MALTA"
+  },
+  {
+    "code": "478",
+    "alphacode": "MR",
+    "description": "TR:=MORİTANYA;;EN:=MAURITANIA"
+  },
+  {
+    "code": "480",
+    "alphacode": "MU",
+    "description": "TR:=MAURITIUS;;EN:=MAURITIUS"
+  },
+  {
+    "code": "496",
+    "alphacode": "MN",
+    "description": "TR:=MOĞOLİSTAN;;EN:=MONGOLIA"
+  },
+  {
+    "code": "498",
+    "alphacode": "MD",
+    "description": "TR:=MOLDAVYA;;EN:=MOLDOVA"
+  },
+  {
+    "code": "528",
+    "alphacode": "NL",
+    "description": "TR:=HOLLANDA;;EN:=NETHERLANDS"
+  },
+  {
+    "code": "044",
+    "alphacode": "BS",
+    "description": "TR:=BAHAMALAR;;EN:=BAHAMAS"
+  },
+  {
+    "code": "516",
+    "alphacode": "NA",
+    "description": "TR:=NAMİBYA;;EN:=NAMIBIA"
+  },
+  {
+    "code": "428",
+    "alphacode": "LV",
+    "description": "TR:=LETONYA;;EN:=LATVIA"
+  },
+  {
+    "code": "512",
+    "alphacode": "OM",
+    "description": "TR:=UMMAN;;EN:=OMAN"
+  },
+  {
+    "code": "508",
+    "alphacode": "MZ",
+    "description": "TR:=MOZAMBİK;;EN:=MOZAMBIQUE"
+  },
+  {
+    "code": "246",
+    "alphacode": "FI",
+    "description": "TR:=FİNLANDİYA;;EN:=FINLAND"
+  },
+  {
+    "code": "222",
+    "alphacode": "SV",
+    "description": "TR:=EL SALVADOR;;EN:=EL SALVADOR"
+  },
+  {
+    "code": "458",
+    "alphacode": "MY",
+    "description": "TR:=MALEZYA;;EN:=MALAYSIA"
+  },
+  {
+    "code": "654",
+    "alphacode": "SH",
+    "description": "TR:=ST. HELENA;;EN:=ST. HELENA"
+  },
+  {
+    "code": "760",
+    "alphacode": "SY",
+    "description": "TR:=SURİYE ARAP CUMHURİYETİ;;EN:=SYRIAN ARAB REPUBLIC"
+  },
+  {
+    "code": "352",
+    "alphacode": "IS",
+    "description": "TR:=İZLANDA;;EN:=ICELAND"
+  },
+  {
+    "code": "392",
+    "alphacode": "JP",
+    "description": "TR:=JAPONYA;;EN:=JAPAN"
+  },
+  {
+    "code": "108",
+    "alphacode": "BI",
+    "description": "TR:=BURUNDI;;EN:=BURUNDI"
+  },
+  {
+    "code": "840",
+    "alphacode": "US",
+    "description": "TR:=AMERİKA BİRLEŞİK DEVLETLERİ;;EN:=UNITED STATES OF AMERICA"
+  },
+  {
+    "code": "104",
+    "alphacode": "MM",
+    "description": "TR:=MYANMAR;;EN:=MYANMAR"
+  },
+  {
+    "code": "608",
+    "alphacode": "PH",
+    "description": "TR:=FİLİPİNLER;;EN:=PHILIPPINES"
+  },
+  {
+    "code": "694",
+    "alphacode": "SL",
+    "description": "TR:=SIERRA LEONE;;EN:=SIERRA LEONE"
+  },
+  {
+    "code": "666",
+    "alphacode": "PM",
+    "description": "TR:=ST. PIERRE AND MIQUELON;;EN:=ST. PIERRE AND MIQUELON"
+  },
+  {
+    "code": "616",
+    "alphacode": "PL",
+    "description": "TR:=POLONYA;;EN:=POLAND"
+  },
+  {
+    "code": "384",
+    "alphacode": "CI",
+    "description": "TR:=COTE D'IVOIRE;;EN:=FİLDİŞİ SAHİLİ"
+  },
+  {
+    "code": "702",
+    "alphacode": "SG",
+    "description": "TR:=SİNGAPUR;;EN:=SINGAPORE"
+  },
+  {
+    "code": "704",
+    "alphacode": "VN",
+    "description": "TR:=VİETNAM;;EN:=VIETNAM"
+  },
+  {
+    "code": "703",
+    "alphacode": "SK",
+    "description": "TR:=SLOVAKYA;;EN:=SLOVAKIA"
+  },
+  {
+    "code": "158",
+    "alphacode": "TW",
+    "description": "TR:=TAYVAN;;EN:=TAIWAN"
+  },
+  {
+    "code": "050",
+    "alphacode": "BD",
+    "description": "TR:=BANGLADEŞ;;EN:=BANGLADESH"
+  },
+  {
+    "code": "051",
+    "alphacode": "AM",
+    "description": "TR:=ERMENİSTAN;;EN:=ARMENIA"
+  },
+  {
+    "code": "052",
+    "alphacode": "BB",
+    "description": "TR:=BARBADOS;;EN:=BARBADOS"
+  },
+  {
+    "code": "056",
+    "alphacode": "BE",
+    "description": "TR:=BELÇİKA;;EN:=BELGIUM"
+  },
+  {
+    "code": "060",
+    "alphacode": "BM",
+    "description": "TR:=BERMUDA;;EN:=BERMUDA"
+  },
+  {
+    "code": "064",
+    "alphacode": "BT",
+    "description": "TR:=BHUTAN;;EN:=BHUTAN"
+  },
+  {
+    "code": "068",
+    "alphacode": "BO",
+    "description": "TR:=BOLİVYA;;EN:=BOLIVIA"
+  },
+  {
+    "code": "070",
+    "alphacode": "BA",
+    "description": "TR:=BOSNA HERSEK;;EN:=BOSNIA HERZEGOVINA"
+  },
+  {
+    "code": "072",
+    "alphacode": "BW",
+    "description": "TR:=BOTSWANA;;EN:=BOTSWANA"
+  },
+  {
+    "code": "076",
+    "alphacode": "BR",
+    "description": "TR:=BREZİLYA;;EN:=BRAZIL"
+  },
+  {
+    "code": "008",
+    "alphacode": "AL",
+    "description": "TR:=ARNAVUTLUK;;EN:=ALBANIA"
+  },
+  {
+    "code": "084",
+    "alphacode": "BZ",
+    "description": "TR:=BELIZE;;EN:=BELIZE"
+  },
+  {
+    "code": "092",
+    "alphacode": "VG",
+    "description": "TR:=İNGİLİZ VİRJİN ADALARI;;EN:=BRITISH VIRGIN ISLANDS"
+  },
+  {
+    "code": "096",
+    "alphacode": "BN",
+    "description": "TR:=BRUNEI DARUSSALA;;EN:=BRUNEI DARUSSALA"
+  },
+  {
+    "code": "736",
+    "alphacode": "SD",
+    "description": "TR:=SUDAN;;EN:=SUDAN"
+  },
+  {
+    "code": "583",
+    "alphacode": "FM",
+    "description": "TR:=MICRONESIA;;EN:=MICRONESIA"
+  },
+  {
+    "code": "020",
+    "alphacode": "AD",
+    "description": "TR:=ANDORRA;;EN:=ANDORRA"
+  },
+  {
+    "code": "090",
+    "alphacode": "SB",
+    "description": "TR:=SOLOMON ADALARI;;EN:=SOLOMON ISLANDS"
+  },
+  {
+    "code": "024",
+    "alphacode": "AO",
+    "description": "TR:=ANGOLA;;EN:=ANGOLA"
+  },
+  {
+    "code": "383",
+    "alphacode": "QZ",
+    "description": "TR:=KOSOVA;;EN:=KOSOVO"
+  },
+  {
+    "code": "031",
+    "alphacode": "AZ",
+    "description": "TR:=AZERBEYCAN;;EN:=AZERBAIJAN"
+  },
+  {
+    "code": "795",
+    "alphacode": "TM",
+    "description": "TR:=TÜRKMENİSTAN;;EN:=TURKMENISTAN"
+  },
+  {
+    "code": "180",
+    "alphacode": "CD",
+    "description": "TR:=DEMOKRATİK KONGO CUMHURİY;;EN:=DEMOCRATIC REPUBLIC CONGO"
+  },
+  {
+    "code": "140",
+    "alphacode": "CF",
+    "description": "TR:=ORTA AFRİKA CUMHURİYETİ;;EN:=CENTRAL AFRICAN REPUBLIC"
+  },
+  {
+    "code": "120",
+    "alphacode": "CM",
+    "description": "TR:=KAMERUN;;EN:=CAMEROON"
+  },
+  {
+    "code": "554",
+    "alphacode": "NZ",
+    "description": "TR:=YENİ ZELANDA;;EN:=NEW ZEALAND"
+  },
+  {
+    "code": "414",
+    "alphacode": "KW",
+    "description": "TR:=KUVEYT;;EN:=KUWAIT"
+  },
+  {
+    "code": "716",
+    "alphacode": "ZW",
+    "description": "TR:=ZİMBABVE;;EN:=ZIMBABWE"
+  },
+  {
+    "code": "724",
+    "alphacode": "ES",
+    "description": "TR:=İSPANYA;;EN:=SPAIN"
+  },
+  {
+    "code": "740",
+    "alphacode": "SR",
+    "description": "TR:=SURINAME;;EN:=SURINAME"
+  },
+  {
+    "code": "266",
+    "alphacode": "GA",
+    "description": "TR:=GABON;;EN:=GABON"
+  },
+  {
+    "code": "254",
+    "alphacode": "GF",
+    "description": "TR:=FRENCH GUIANA;;EN:=FRENCH GUIANA"
+  },
+  {
+    "code": "474",
+    "alphacode": "MQ",
+    "description": "TR:=MARTİNİK;;EN:=MARTINIQUE"
+  },
+  {
+    "code": "581",
+    "alphacode": "UM",
+    "description": "TR:=U.S. MINOR OUTLYIN;;EN:=U.S. MINOR OUTLYIN"
+  },
+  {
+    "code": "574",
+    "alphacode": "NF",
+    "description": "TR:=NORFOLK ADASI;;EN:=NORFOLK ISLAND"
+  },
+  {
+    "code": "792",
+    "alphacode": "TR",
+    "description": "TR:=TÜRKİYE;;EN:=TURKEY"
+  },
+  {
+    "code": "826",
+    "alphacode": "GB",
+    "description": "TR:=BİRLEŞİK KRALLIK;;EN:=UNITED KINGDOM"
+  },
+  {
+    "code": "630",
+    "alphacode": "PR",
+    "description": "TR:=PORTO RİKO;;EN:=PUERTO RICO"
+  },
+  {
+    "code": "312",
+    "alphacode": "GP",
+    "description": "TR:=GUADELOUPE;;EN:=GUADELOUPE"
+  },
+  {
+    "code": "390",
+    "alphacode": "KK",
+    "description": "TR:=KKTC;;EN:="
+  },
+  {
+    "code": "214",
+    "alphacode": "DO",
+    "description": "TR:=DOMİNİK CUMHURİYETİ;;EN:=REPUBLICA DOMINICANA"
+  },
+  {
+    "code": "604",
+    "alphacode": "PE",
+    "description": "TR:=PERU;;EN:=PERU"
+  },
+  {
+    "code": "710",
+    "alphacode": "ZA",
+    "description": "TR:=GÜNEY AFRİKA;;EN:=SOUTH AFRICA"
+  },
+  {
+    "code": "380",
+    "alphacode": "IT",
+    "description": "TR:=İTALYA;;EN:=ITALY"
+  },
+  {
+    "code": "634",
+    "alphacode": "QA",
+    "description": "TR:=KATAR;;EN:=QATAR"
+  },
+  {
+    "code": "748",
+    "alphacode": "SZ",
+    "description": "TR:=SWAZİLAND;;EN:=SWAZILAND"
+  },
+  {
+    "code": "356",
+    "alphacode": "IN",
+    "description": "TR:=HİNDİSTAN;;EN:=INDIA"
+  },
+  {
+    "code": "752",
+    "alphacode": "SE",
+    "description": "TR:=İSVEÇ;;EN:=SWEDEN"
+  },
+  {
+    "code": "756",
+    "alphacode": "CH",
+    "description": "TR:=İSVİÇRE;;EN:=SWITZERLAND"
+  },
+  {
+    "code": "762",
+    "alphacode": "TJ",
+    "description": "TR:=TACİKİSTAN;;EN:=TAJIKISTAN"
+  },
+  {
+    "code": "764",
+    "alphacode": "TH",
+    "description": "TR:=TAYLAND;;EN:=THAILAND"
+  },
+  {
+    "code": "776",
+    "alphacode": "TO",
+    "description": "TR:=TONGA;;EN:=TONGA"
+  },
+  {
+    "code": "780",
+    "alphacode": "TT",
+    "description": "TR:=TRINIDAD AND TOBAG;;EN:=TRINIDAD AND TOBAG"
+  },
+  {
+    "code": "784",
+    "alphacode": "AE",
+    "description": "TR:=BİRLEŞİK ARAP EMİRLİKLERİ;;EN:=UNITED ARAB EMIRATES"
+  },
+  {
+    "code": "788",
+    "alphacode": "TN",
+    "description": "TR:=TUNUS;;EN:=TUNISIA"
+  },
+  {
+    "code": "800",
+    "alphacode": "UG",
+    "description": "TR:=UGANDA;;EN:=UGANDA"
+  },
+  {
+    "code": "804",
+    "alphacode": "UA",
+    "description": "TR:=UKRANYA;;EN:=UKRAINE"
+  },
+  {
+    "code": "807",
+    "alphacode": "MK",
+    "description": "TR:=MAKEDONYA;;EN:=MACEDONIA"
+  },
+  {
+    "code": "818",
+    "alphacode": "EG",
+    "description": "TR:=MISIR;;EN:=EGYPT"
+  },
+  {
+    "code": "834",
+    "alphacode": "TZ",
+    "description": "TR:=BİRLEŞİK TANZANYA CUMHURİ;;EN:=UNITED REP. OF TANZANIA"
+  },
+  {
+    "code": "858",
+    "alphacode": "UY",
+    "description": "TR:=URUGUAY;;EN:=URUGUAY"
+  },
+  {
+    "code": "860",
+    "alphacode": "UZ",
+    "description": "TR:=ÖZBEKİSTAN;;EN:=UZBEKISTAN"
+  },
+  {
+    "code": "862",
+    "alphacode": "VE",
+    "description": "TR:=VENEZUELLA;;EN:=VENEZUELA"
+  },
+  {
+    "code": "882",
+    "alphacode": "WS",
+    "description": "TR:=SAMOA;;EN:=SAMOA"
+  },
+  {
+    "code": "320",
+    "alphacode": "GT",
+    "description": "TR:=GUATEMALA;;EN:=GUATEMALA"
+  },
+  {
+    "code": "548",
+    "alphacode": "VU",
+    "description": "TR:=VANUATU;;EN:=VANUATU"
+  },
+  {
+    "code": "558",
+    "alphacode": "NI",
+    "description": "TR:=NİKARAGUA;;EN:=NICARAGUA"
+  },
+  {
+    "code": "566",
+    "alphacode": "NG",
+    "description": "TR:=NİJERYA;;EN:=NIGERIA"
+  },
+  {
+    "code": "578",
+    "alphacode": "NO",
+    "description": "TR:=NORVEÇ;;EN:=NORWAY"
+  },
+  {
+    "code": "674",
+    "alphacode": "SM",
+    "description": "TR:=SAN MARINO;;EN:=SAN MARINO"
+  },
+  {
+    "code": "148",
+    "alphacode": "TD",
+    "description": "TR:=ÇAD;;EN:=CHAD"
+  },
+  {
+    "code": "232",
+    "alphacode": "ER",
+    "description": "TR:=ERITREA;;EN:=ERITREA"
+  },
+  {
+    "code": "688",
+    "alphacode": "RS",
+    "description": "TR:=SIRBISTAN;;EN:=SERBIA"
+  },
+  {
+    "code": "499",
+    "alphacode": "ME",
+    "description": "TR:=MONTENEGRO;;EN:=MONTENEGRO"
+  },
+  {
+    "code": "534",
+    "alphacode": "SX",
+    "description": "TR:=SINT MAARTEN(HOLLANDA KISMI);;EN:=SINT MAARTEN(DUTCH PART)"
+  },
+  {
+    "code": "832",
+    "alphacode": "JE",
+    "description": "TR:=JERSEY;;EN:=JERSEY"
+  },
+  {
+    "code": "275",
+    "alphacode": "PS",
+    "description": "TR:=FİLİSTİN DEVLETİ;;EN:=PALESTINE, STATE OF"
+  },
+  {
+    "code": "728",
+    "alphacode": "SS",
+    "description": "TR:=GÜNEY SUDAN;;EN:=SOUTH SUDAN"
+  },
+  {
+    "code": "004",
+    "alphacode": "AF",
+    "description": "TR:=AFGANİSTAN;;EN:=AFGHANISTAN"
+  }
+]

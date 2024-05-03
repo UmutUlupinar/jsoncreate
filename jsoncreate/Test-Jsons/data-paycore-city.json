@@ -1,0 +1,326 @@
+[
+  {
+    "code": "001",
+    "description": "ADANA"
+  },
+  {
+    "code": "002",
+    "description": "ADIYAMAN"
+  },
+  {
+    "code": "003",
+    "description": "AFYONKARAHİSAR"
+  },
+  {
+    "code": "004",
+    "description": "AĞRI"
+  },
+  {
+    "code": "005",
+    "description": "AMASYA"
+  },
+  {
+    "code": "006",
+    "description": "ANKARA"
+  },
+  {
+    "code": "007",
+    "description": "ANTALYA"
+  },
+  {
+    "code": "008",
+    "description": "ARTVİN"
+  },
+  {
+    "code": "009",
+    "description": "AYDIN"
+  },
+  {
+    "code": "010",
+    "description": "BALIKESİR"
+  },
+  {
+    "code": "011",
+    "description": "BİLECİK"
+  },
+  {
+    "code": "012",
+    "description": "BİNGÖL"
+  },
+  {
+    "code": "013",
+    "description": "BİTLİS"
+  },
+  {
+    "code": "014",
+    "description": "BOLU"
+  },
+  {
+    "code": "015",
+    "description": "BURDUR"
+  },
+  {
+    "code": "016",
+    "description": "BURSA"
+  },
+  {
+    "code": "017",
+    "description": "ÇANAKKALE"
+  },
+  {
+    "code": "018",
+    "description": "ÇANKIRI"
+  },
+  {
+    "code": "019",
+    "description": "ÇORUM"
+  },
+  {
+    "code": "020",
+    "description": "DENİZLİ"
+  },
+  {
+    "code": "021",
+    "description": "DİYARBAKIR"
+  },
+  {
+    "code": "022",
+    "description": "EDİRNE"
+  },
+  {
+    "code": "023",
+    "description": "ELAZIĞ"
+  },
+  {
+    "code": "024",
+    "description": "ERZİNCAN"
+  },
+  {
+    "code": "025",
+    "description": "ERZURUM"
+  },
+  {
+    "code": "026",
+    "description": "ESKİŞEHİR"
+  },
+  {
+    "code": "027",
+    "description": "GAZİANTEP"
+  },
+  {
+    "code": "028",
+    "description": "GİRESUN"
+  },
+  {
+    "code": "029",
+    "description": "GÜMÜŞHANE"
+  },
+  {
+    "code": "030",
+    "description": "HAKKARİ"
+  },
+  {
+    "code": "031",
+    "description": "HATAY"
+  },
+  {
+    "code": "032",
+    "description": "ISPARTA"
+  },
+  {
+    "code": "033",
+    "description": "MERSİN"
+  },
+  {
+    "code": "034",
+    "description": "İSTANBUL"
+  },
+  {
+    "code": "035",
+    "description": "İZMİR"
+  },
+  {
+    "code": "036",
+    "description": "KARS"
+  },
+  {
+    "code": "037",
+    "description": "KASTAMONU"
+  },
+  {
+    "code": "038",
+    "description": "KAYSERİ"
+  },
+  {
+    "code": "039",
+    "description": "KIRKLARELİ"
+  },
+  {
+    "code": "040",
+    "description": "KIRŞEHİR"
+  },
+  {
+    "code": "041",
+    "description": "KOCAELİ"
+  },
+  {
+    "code": "042",
+    "description": "KONYA"
+  },
+  {
+    "code": "043",
+    "description": "KÜTAHYA"
+  },
+  {
+    "code": "044",
+    "description": "MALATYA"
+  },
+  {
+    "code": "045",
+    "description": "MANİSA"
+  },
+  {
+    "code": "046",
+    "description": "KAHRAMANMARAŞ"
+  },
+  {
+    "code": "047",
+    "description": "MARDİN"
+  },
+  {
+    "code": "048",
+    "description": "MUĞLA"
+  },
+  {
+    "code": "049",
+    "description": "MUŞ"
+  },
+  {
+    "code": "050",
+    "description": "NEVŞEHİR"
+  },
+  {
+    "code": "051",
+    "description": "NİĞDE"
+  },
+  {
+    "code": "052",
+    "description": "ORDU"
+  },
+  {
+    "code": "053",
+    "description": "RİZE"
+  },
+  {
+    "code": "054",
+    "description": "SAKARYA"
+  },
+  {
+    "code": "055",
+    "description": "SAMSUN"
+  },
+  {
+    "code": "056",
+    "description": "SİİRT"
+  },
+  {
+    "code": "057",
+    "description": "SİNOP"
+  },
+  {
+    "code": "058",
+    "description": "SİVAS"
+  },
+  {
+    "code": "059",
+    "description": "TEKİRDAĞ"
+  },
+  {
+    "code": "060",
+    "description": "TOKAT"
+  },
+  {
+    "code": "061",
+    "description": "TRABZON"
+  },
+  {
+    "code": "062",
+    "description": "TUNCELİ"
+  },
+  {
+    "code": "063",
+    "description": "ŞANLIURFA"
+  },
+  {
+    "code": "064",
+    "description": "UŞAK"
+  },
+  {
+    "code": "065",
+    "description": "VAN"
+  },
+  {
+    "code": "066",
+    "description": "YOZGAT"
+  },
+  {
+    "code": "067",
+    "description": "ZONGULDAK"
+  },
+  {
+    "code": "068",
+    "description": "AKSARAY"
+  },
+  {
+    "code": "069",
+    "description": "BAYBURT"
+  },
+  {
+    "code": "070",
+    "description": "KARAMAN"
+  },
+  {
+    "code": "071",
+    "description": "KIRIKKALE"
+  },
+  {
+    "code": "072",
+    "description": "BATMAN"
+  },
+  {
+    "code": "073",
+    "description": "ŞIRNAK"
+  },
+  {
+    "code": "074",
+    "description": "BARTIN"
+  },
+  {
+    "code": "075",
+    "description": "ARDAHAN"
+  },
+  {
+    "code": "076",
+    "description": "IĞDIR"
+  },
+  {
+    "code": "077",
+    "description": "YALOVA"
+  },
+  {
+    "code": "078",
+    "description": "KARABÜK"
+  },
+  {
+    "code": "079",
+    "description": "KİLİS"
+  },
+  {
+    "code": "080",
+    "description": "OSMANİYE"
+  },
+  {
+    "code": "081",
+    "description": "DÜZCE"
+  }
+]
